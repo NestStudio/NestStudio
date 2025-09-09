@@ -32,10 +32,6 @@ Join our Discord to collaborate, learn, and build with us:
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NestStudio&theme=tokyo-night)
-
-
-
 
 
 
